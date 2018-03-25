@@ -9,3 +9,4 @@ Papers:
  - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://github.com/bumic/summaries/tree/master/dropout%20a%20simple%20way%20to%20prevent%20neural%20networks%20from%20overfitting)
  - [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/bumic/summaries/tree/master/synthetic%20gradients)
  - [Large Scale Distributed Deep Networks](https://github.com/bumic/summaries/tree/master/distributed%20deep%20learning)
+ - [The Lottery Ticket Hypothesis: Training Pruned Neural Networks](https://github.com/bumic/summaries/tree/master/the_lottery_ticket_hypothesis)
